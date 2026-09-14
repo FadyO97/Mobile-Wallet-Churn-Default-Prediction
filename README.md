@@ -46,5 +46,5 @@ Monitors credit performance by mapping actual default rates against target thres
 ## 🚀 Key Business Insights
 
 * **High Churn Threshold**: A 47.8% churn rate highlights significant drop-offs after initial onboarding; inactivity correlates directly with accounts exhibiting 4+ failed transaction attempts in 30 days.
-* **Geographic & Loan Size Risk**: Micro-loans (500 EGP) in specific governorates like Giza present higher relative default risk (1.3%) compared to higher loan brackets.
+* **Geographic & Loan Size Risk**: Micro-loans (500K EGP) in specific governorates like Giza present higher relative default risk (1.3%) compared to higher loan brackets.
 * **Proactive Risk Mitigation**: 49 accounts currently flagged under the **High Risk** segment account for immediate retention and credit recovery intervention.
