@@ -29,7 +29,7 @@ Analyzes the drivers behind customer churn (47.8%) by cross-referencing recency 
 
 ### 3. Credit Risk & Default Monitoring
 
-Monitors credit performance by mapping actual default rates against target thresholds. Highlights risk concentration using decomposition trees across regions (Giza showing peak default rates at 0.7%) and loan amount brackets (e.g., 500 EGP micro-loans displaying 1.3% default rate).
+Monitors credit performance by mapping actual default rates against target thresholds. Highlights risk concentration using decomposition trees across regions (Giza showing peak default rates at 0.7%) and loan amount brackets (e.g., 500K EGP micro-loans displaying 1.3% default rate).
 
 ![Credit Risk Monitoring](Credit Risk & Default Monitoring.png)
 
